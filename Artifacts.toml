@@ -1,0 +1,8 @@
+[[CoinUtils]]
+arch = "aarch64"
+git-tree-sha1 = "7618922acacf0ea23c76d60236535a1e8196240b"
+os = "macos"
+
+    [[CoinUtils.download]]
+    sha256 = "041b3dbff459130006bbc40800d04532dd10c6612cc8d9079debbe7630712119"
+    url = "https://github.com/giordano/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+1/CoinUtils.v200.1100.600.aarch64-apple-darwin.tar.gz"
